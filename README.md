@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **alekla0126@gmail.com**
 
-- ⚡ Fun fact **I like coffee**
+- ⚡ Fun fact, **I like coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/alejandro lagunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alejandro lagunes" height="30" width="40" /></a>
+<a href="https://kaggle.com/alejandrolagunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alejandro lagunes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
