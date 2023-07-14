@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **my youtube video downloader or my airbnb clone**
 
-- 👨‍💻 My website is [alekla.com](alekla.com) [Away](away.town)
+- 👨‍💻 My website is [alekla.com](alekla.com) [away.town](https://away.town))
 
 - 💬 Ask me about **Python, Flutter, C++**
 
