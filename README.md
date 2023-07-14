@@ -7,7 +7,13 @@
 
 - 🤝 I’m looking for help with **my youtube video downloader or my airbnb clone**
 
-- 👨‍💻 My website is [alekla.com](alekla.com) [away.town](https://away.town)
+- 👨‍💻 My website is [alekla.com](alekla.com)
+
+- Accommodation app [away.town](https://away.town)
+
+- Chess clock app made with Flutter [Clock](https://alekla0126.github.io/#/)
+
+- Tetris app made with Flutter 
 
 - 💬 Ask me about **Python, Flutter, C++**
 
