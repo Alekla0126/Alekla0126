@@ -13,7 +13,7 @@
 
 - Chess clock app made with Flutter [Clock](https://alekla0126.github.io/#/)
 
-- Tetris app made with Flutter 
+- Tetris app made with Flutter [Tetris](https://alekla0126.github.io/tetris/#/)
 
 - 💬 Ask me about **Python, Flutter, C++**
 
