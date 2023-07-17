@@ -15,6 +15,8 @@
 
 - 🎮 Tetris app made with Flutter [Tetris](https://alekla0126.github.io/tetris/#/)
 
+- 🌮 Example of delivery app with Flutter [Delivery](https://alekla0126.github.io/delivery/#/)
+
 - 💬 Ask me about **Python, Flutter, C++**
 
 - 📫 How to reach me **alekla0126@gmail.com**
