@@ -7,15 +7,15 @@
 
 - 🤝 I’m looking for help with **my youtube video downloader or my airbnb clone**
 
-- 👨‍💻 My website is [alekla.com](alekla.com)
+- 👨‍💻 [My website is alekla.com](alekla.com)
 
-- 🗺️ Accommodation app [away.town](https://away.town)
+- 🗺️ [My accommodation app away.town](https://away.town)
 
-- ♟️ Chess clock app made with Flutter [Clock](https://alekla0126.github.io/#/)
+- ♟️ [Chess clock built with Flutter](https://alekla0126.github.io/#/)
 
-- 🎮 Tetris app made with Flutter [Tetris](https://alekla0126.github.io/tetris/#/)
+- 🎮 [Play some Tetris, made with Flutter](https://alekla0126.github.io/tetris/#/)
 
-- 🌮 Example of delivery app with Flutter [Delivery](https://alekla0126.github.io/delivery/#/)
+- 🌮 [A delivery app example, made with Flutter](https://alekla0126.github.io/delivery/#/)
 
 - 💬 Ask me about **Python, Flutter, C++**
 
