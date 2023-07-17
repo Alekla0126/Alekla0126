@@ -3,17 +3,17 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **interesting projects**
+- 🤠 I’m looking to collaborate on **interesting projects**
 
 - 🤝 I’m looking for help with **my youtube video downloader or my airbnb clone**
 
 - 👨‍💻 My website is [alekla.com](alekla.com)
 
-- Accommodation app [away.town](https://away.town)
+- 🗺️ Accommodation app [away.town](https://away.town)
 
-- Chess clock app made with Flutter [Clock](https://alekla0126.github.io/#/)
+- ♟️ Chess clock app made with Flutter [Clock](https://alekla0126.github.io/#/)
 
-- Tetris app made with Flutter [Tetris](https://alekla0126.github.io/tetris/#/)
+- 🎮 Tetris app made with Flutter [Tetris](https://alekla0126.github.io/tetris/#/)
 
 - 💬 Ask me about **Python, Flutter, C++**
 
