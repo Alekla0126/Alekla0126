@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **alekla0126@gmail.com**
 
-- ⚡ Fun fact, **I like coffee**
+- ⚡ **I like coffee and ETH (0x23b21a605cdd79f4a9a362e67565d6b32c27e452)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
