@@ -17,8 +17,6 @@
 
 - 🌮 [A delivery app example, made with Flutter](https://alekla0126.github.io/delivery/#/)
 
-- 🏡 [Room finder UI with Flutter](https://alekla0126.github.io/roomfinder/#/)
-
 - 💬 Ask me about **Python, Flutter, C++**
 
 - 📫 How to reach me **alekla0126@gmail.com**
