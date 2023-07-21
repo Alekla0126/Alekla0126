@@ -15,7 +15,7 @@
 
 - 🎮 [Play some Tetris, made with Flutter](https://alekla0126.github.io/tetris/#/)
 
-- 🌮 [A delivery app example, made with Flutter](https://alekla0126.github.io/delivery/#/)
+- 🌮 [Delivery app UI example, made with Flutter](https://alekla0126.github.io/delivery/#/)
 
 - 🪙 [Crypto market UI, made with Flutter](https://alekla0126.github.io/cryptowallet/#/)
 
