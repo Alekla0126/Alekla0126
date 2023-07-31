@@ -7,6 +7,8 @@
 
 - 🤝 I’m looking for help with **my [YOUTUBE VIDEO DOWNLOADER IN FLUTTER](https://alekla0126.github.io/ydownloader/#/) or my accomodation app**
 
+- [Terminal website](termportfolio.vercel.app)
+
 - 👨‍💻 [My website is alekla.com](alekla.com)
 
 - 🗺️ [My accommodation app away.town](https://away.town)
