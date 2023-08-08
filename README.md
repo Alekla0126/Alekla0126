@@ -5,7 +5,7 @@
 
 - 🤠 I’m looking to collaborate on **interesting projects**
 
-- 🤝 I’m looking for help with **my [YOUTUBE VIDEO DOWNLOADER IN FLUTTER](https://alekla0126.github.io/ydownloader/#/) or my accomodation app**
+- 🤝 I’m looking for help with **my [youtube video downloader in Flutter](https://alekla0126.github.io/ydownloader/#/) or my accomodation app**
 
 - 👨‍💻 [My website is alekla.com](https://alekla.com) | [Terminal website](https://termportfolio.vercel.app)
 
