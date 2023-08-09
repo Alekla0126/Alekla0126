@@ -19,7 +19,7 @@
 
 - 🪙 [Crypto market UI, made with Flutter and a CI/CD](https://alekla0126.github.io/cryptowallet/#/)
 
-- [Card Fraud Detector with phishing integration](https://cfd.onrender.com)
+- 🎣💳 [Card Fraud Detector with phishing integration](https://cfd.onrender.com)
 
 - 💬 Ask me about **Python, Flutter, C++**
 
