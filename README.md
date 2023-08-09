@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 🤠 I’m looking to collaborate on **interesting projects**
+- 🤠 Looking for cooperation in **interesting projects**
 
 - 🤝 I’m looking for help with **my [youtube video downloader in Flutter](https://alekla0126.github.io/ydownloader/#/) or my accomodation app**
 
