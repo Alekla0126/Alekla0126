@@ -11,13 +11,13 @@
 
 - 🗺️ [My accommodation app away.town](https://away.town)
 
-- ♟️ [Chess clock built with Flutter and CI/CD](https://alekla0126.github.io/#/)
+- ♟️ [Chess clock built with Flutter and CD](https://alekla0126.github.io/#/)
 
-- 🎮 [Play some Tetris, made with Flutter and CI/CD](https://alekla0126.github.io/tetris/#/)
+- 🎮 [Play some Tetris, made with Flutter and CD](https://alekla0126.github.io/tetris/#/)
 
-- 🌮 [Delivery app UI example, made with Flutter and a CI/CD](https://alekla0126.github.io/delivery/#/)
+- 🌮 [Delivery app UI example, made with Flutter and a CD](https://alekla0126.github.io/delivery/#/)
 
-- 🪙 [Crypto market UI, made with Flutter and a CI/CD](https://alekla0126.github.io/cryptowallet/#/)
+- 🪙 [Crypto market UI, made with Flutter and a CD](https://alekla0126.github.io/cryptowallet/#/)
 
 - 🎣💳 [Card Fraud Detector with phishing integration](https://cfd.onrender.com)
 
