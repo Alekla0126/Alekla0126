@@ -23,8 +23,6 @@
 
 - 💬 Ask me about **Python, Flutter, C++**
 
-- 📫 How to reach me **alekla0126@gmail.com**
-
 - ⚡ **I like coffee and ETH (0x9742ebed977b0c03816d6db0ab52a5b39ed76def)**
 
 <h3 align="left">Connect with me:</h3>
