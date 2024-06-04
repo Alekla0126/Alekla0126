@@ -15,7 +15,7 @@
 
 - 🎮 [Play some Tetris, made with Flutter and CD](https://alekla0126.github.io/tetris/#/)
 
-- 🎣💳 [Card Fraud Detector with phishing integration](https://alekla0126.github.io/Financial-fraud-phishing-platform/)
+- 🎣💳 [Card Fraud Detector with phishing integration]([https://alekla0126.github.io/Financial-fraud-phishing-platform/](https://bluemarlinplatform.com))
 
 - 💬 Ask me about **Python, Flutter, C++**
 
