@@ -5,11 +5,7 @@
 
 - 🤠 Looking for cooperation in **interesting projects**
 
-- 🤝 I’m looking for help with **my [youtube video downloader in Flutter](https://alekla0126.github.io/ydownloader/#/) or my accomodation app**
-
 - 👨‍💻 [My website is alekla.com](https://alekla.com) | [Terminal website](https://termportfolio.vercel.app)
-
-- 🗺️ [My accommodation app away.town](https://away.town)
 
 - ♟️ [Chess clock built with Flutter and CD](https://alekla0126.github.io/#/)
 
