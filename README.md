@@ -7,9 +7,9 @@
 
 - 👨‍💻 [My website is alekla.com](https://alekla.com) | [Terminal website](https://termportfolio.vercel.app)
 
-- ♟️ [Chess clock built with Flutter and CD](https://alekla0126.github.io/#/)
+- ♟️ [Chess clock built with Flutter and CD/CI](https://alekla0126.github.io/#/)
 
-- 🎮 [Play some Tetris, made with Flutter and CD](https://alekla0126.github.io/tetris/#/)
+- 🎮 [Play some Tetris, made with Flutter and CD/CI](https://alekla0126.github.io/tetris/#/)
 
 - 🎣💳 [Card Fraud Detector with phishing integration](https://bluemarlinplatform.com)
 
