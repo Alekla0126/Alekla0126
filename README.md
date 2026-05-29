@@ -24,7 +24,7 @@
 A CLI that greets you with a Stoic quote and its author every time you open a terminal. Colors included.
 
 ```bash
-brew tap alekla0126/stoic-phrase
+brew tap alekla0126/stoic-phrase https://github.com/Alekla0126/Stoic-Phrase
 brew install stoic-phrase
 ```
 
