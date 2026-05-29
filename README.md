@@ -17,6 +17,29 @@
 
 - ⚡ **I like coffee and ETH (0x9742ebed977b0c03816d6db0ab52a5b39ed76def)**
 
+---
+
+<h3 align="left">🏛️ Stoic Phrase — Terminal tool</h3>
+
+A CLI that greets you with a Stoic quote and its author every time you open a terminal. Colors included.
+
+```bash
+brew tap alekla0126/stoic-phrase
+brew install stoic-phrase
+```
+
+> Dependencies (`jq`, `lolcat`) are installed automatically. On first run, the quote appears on every new terminal session.
+
+<p align="left">
+  <a href="https://github.com/Alekla0126/Stoic-Phrase">
+    <img src="https://img.shields.io/badge/GitHub-Stoic--Phrase-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Stoic Phrase on GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Homebrew-tap-FBB040?style=for-the-badge&logo=homebrew&logoColor=white" alt="Homebrew tap"/>
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="MIT License"/>
+</p>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/alejandrolagunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alejandro lagunes" height="30" width="40" /></a>
