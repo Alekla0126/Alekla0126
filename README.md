@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate Software Engineer from Mexico</h3>
 
-- 🌱 I’m currently learning **AWS**
 
 - 🤠 Looking for cooperation in **interesting projects**
 
-- 👨‍💻 [My website is alekla.com](https://alekla.com) | [Terminal website](https://termportfolio.vercel.app)
+- 👨‍💻 [My website is alekla.com](https://alekla.com)
 
 - ♟️ [Chess clock built with Flutter and CD/CI](https://alekla0126.github.io/#/)
 
 - 🎮 [Play some Tetris, made with Flutter and CD/CI](https://alekla0126.github.io/tetris/#/)
-
-- 🎣💳 [Card Fraud Detector with phishing integration](https://bluemarlinplatform.com)
 
 - 💬 Ask me about **Python, Flutter, C++**
 
