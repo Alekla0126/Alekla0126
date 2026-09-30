@@ -16,6 +16,24 @@
 
 ---
 
+<h3 align="left">⚗️ Alchemist Coder — the lab for your coding agents</h3>
+
+A free, open-source desktop app to follow and organize Claude Code, Codex, Gemini CLI and Grok Build: your whole history with search, every agent and subagent live, a board of tasks, and Git in plain words. Agents also run on local models (Ollama, LM Studio). macOS, Windows and Linux (beta).
+
+<p align="left">
+  <a href="https://coder.alekla.com">
+    <img src="https://img.shields.io/badge/Download-coder.alekla.com-d97a4a?style=for-the-badge" alt="Download Alchemist Coder"/>
+  </a>
+  <a href="https://github.com/Alekla0126/alchemist-coder">
+    <img src="https://img.shields.io/badge/GitHub-alchemist--coder-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Alchemist Coder on GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/license-AGPL--3.0-blue?style=for-the-badge" alt="AGPL-3.0 License"/>
+</p>
+
+<a href="https://coder.alekla.com"><img src="https://coder.alekla.com/og.png" alt="Alchemist Coder: the lab for your coding agents" width="600"/></a>
+
+---
+
 <h3 align="left">🏛️ Stoic Phrase — Terminal tool</h3>
 
 A CLI that greets you with a Stoic quote and its author every time you open a terminal. Colors included.
