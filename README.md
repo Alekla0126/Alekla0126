@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Software Engineer from Mexico</h3>
 
 
-- 🤠 Looking for cooperation in **interesting projects**
+- 🤝 **Open to collaborations**: I'm building [Alchemist Coder](https://github.com/Alekla0126/alchemist-coder) in the open, and contributors are welcome
+
+- ⚗️ [The Alchemist Code](https://thealchemistcode.org): apps and AI for your business
 
 - 👨‍💻 [My website is alekla.com](https://alekla.com)
 
@@ -16,21 +18,34 @@
 
 ---
 
-<h3 align="left">⚗️ Alchemist Coder — the lab for your coding agents</h3>
+<h3 align="left">⚗️ Alchemist Coder: the open-source lab for your coding agents</h3>
 
-A free, open-source desktop app to follow and organize Claude Code, Codex, Gemini CLI and Grok Build: your whole history with search, every agent and subagent live, a board of tasks, and Git in plain words. Agents also run on local models (Ollama, LM Studio). macOS, Windows and Linux (beta).
+Claude Code, Codex, Gemini CLI and Grok in one desktop app, with your whole history kept and searchable. Follow every agent and subagent live, let several agents solve the same task in separate git worktrees and merge the best one, and run them on local models too (Ollama, LM Studio). Free, open source (AGPL-3.0), no account needed. macOS, Windows and Linux, in 11 languages.
 
 <p align="left">
   <a href="https://coder.alekla.com">
-    <img src="https://img.shields.io/badge/Download-coder.alekla.com-d97a4a?style=for-the-badge" alt="Download Alchemist Coder"/>
+    <img src="https://img.shields.io/badge/Try_it_free-coder.alekla.com-d97a4a?style=for-the-badge" alt="Try Alchemist Coder for free"/>
   </a>
   <a href="https://github.com/Alekla0126/alchemist-coder">
     <img src="https://img.shields.io/badge/GitHub-alchemist--coder-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Alchemist Coder on GitHub"/>
+  </a>
+  <a href="https://github.com/Alekla0126/alchemist-coder/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Alekla0126/alchemist-coder?style=for-the-badge&label=release" alt="Latest release"/>
+  </a>
+  <a href="https://github.com/Alekla0126/alchemist-coder/blob/main/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/PRs-welcome-2ea44f?style=for-the-badge" alt="PRs welcome"/>
   </a>
   <img src="https://img.shields.io/badge/license-AGPL--3.0-blue?style=for-the-badge" alt="AGPL-3.0 License"/>
 </p>
 
 <a href="https://coder.alekla.com"><img src="https://coder.alekla.com/og.png" alt="Alchemist Coder: the lab for your coding agents" width="600"/></a>
+
+**Want to collaborate?** It's early (v1.x), so every bit of help shows:
+
+- ⭐ **Try it and tell me what breaks:** [download it](https://coder.alekla.com/#download) and [open an issue](https://github.com/Alekla0126/alchemist-coder/issues/new) with bugs or ideas.
+- 🔧 **Send a pull request:** start with [CONTRIBUTING.md](https://github.com/Alekla0126/alchemist-coder/blob/main/CONTRIBUTING.md). For anything bigger than a small fix, open an issue first so we agree on the approach.
+- 🌍 **Improve a translation:** the app ships in 11 languages, and native speakers catch what I can't.
+- 💬 Issues in English or Spanish are welcome. / ¿Hablas español? La app también está en español: [coder.alekla.com/es](https://coder.alekla.com/es)
 
 ---
 
