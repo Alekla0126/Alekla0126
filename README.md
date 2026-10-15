@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">A passionate Software Engineer from Mexico</h3>
+<h3 align="center">Software engineering, AI and tech leadership · Puebla, Mexico</h3>
 
+
+- 🌐 **[alekla.com](https://alekla.com)**: my apps, projects, services and CV, all in one place
+
+- ✍️ I write about AI, digital government and tech leadership (in Spanish) at [alekla.com/publicaciones](https://alekla.com/publicaciones/)
 
 - 🤝 **Open to collaborations**: I'm building [Alchemist Coder](https://github.com/Alekla0126/alchemist-coder) in the open, and contributors are welcome
 
 - ⚗️ [The Alchemist Code](https://thealchemistcode.org): apps and AI for your business
 
 - 📱 **16 mobile apps** on the [App Store](https://apps.apple.com/us/developer/yabin-alejandro-lagunes-cuevas/id1754517101) and [Google Play](https://play.google.com/store/apps/developer?id=Alejandro+Lagunes)
-
-- 👨‍💻 [My website is alekla.com](https://alekla.com)
 
 - ♟️ [Chess clock built with Flutter and CD/CI](https://alekla0126.github.io/#/)
 
@@ -53,7 +55,7 @@ Claude Code, Codex, Gemini CLI and Grok in one desktop app, with your whole hist
 
 <h3 align="left">📱 My apps on the App Store and Google Play</h3>
 
-16 mobile apps for sports, productivity, AI and everyday life, made at [The Alchemist Code](https://thealchemistcode.org). See them all in one place:
+16 mobile apps for sports, productivity, AI and everyday life, made at [The Alchemist Code](https://thealchemistcode.org). Each one has its own page on [alekla.com](https://alekla.com/#apps), and all of them are in the stores:
 
 <p align="left">
   <a href="https://apps.apple.com/us/developer/yabin-alejandro-lagunes-cuevas/id1754517101"><img src="assets/badges/app-store.svg" height="48" alt="All my apps on the App Store"/></a>
@@ -64,32 +66,32 @@ Claude Code, Codex, Gemini CLI and Grok in one desktop app, with your whole hist
 <table>
     <tr>
       <td width="64"><img src="assets/apps/soccer24.png" width="56" height="56" alt="Soccer24"/></td>
-      <td><b>Soccer24</b><br/>Live football scores, fixtures and tables from more than 1,100 competitions.</td>
+      <td><b><a href="https://soccer24.alekla.com">Soccer24</a></b><br/>Live football scores, fixtures and tables from more than 1,100 competitions.</td>
       <td><a href="https://apps.apple.com/app/id6737065907"><img src="assets/badges/app-store.svg" height="34" alt="Soccer24 on the App Store"/></a> <a href="https://play.google.com/store/apps/details?id=com.alekla0126.soccer24&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dprofile%26utm_campaign%3Dreadme"><img src="assets/badges/google-play.png" height="34" alt="Soccer24 on Google Play"/></a></td>
     </tr>
     <tr>
       <td width="64"><img src="assets/apps/clutch.png" width="56" height="56" alt="Clutch"/></td>
-      <td><b>Clutch</b><br/>Live basketball scores, alerts for close finishes and a spoiler-free mode.</td>
+      <td><b><a href="https://clutch.alekla.com">Clutch</a></b><br/>Live basketball scores, alerts for close finishes and a spoiler-free mode.</td>
       <td><a href="https://apps.apple.com/app/id6816774950"><img src="assets/badges/app-store.svg" height="34" alt="Clutch on the App Store"/></a> <a href="https://play.google.com/store/apps/details?id=com.alchemistcode.clutch&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dprofile%26utm_campaign%3Dreadme"><img src="assets/badges/google-play.png" height="34" alt="Clutch on Google Play"/></a></td>
     </tr>
     <tr>
       <td width="64"><img src="assets/apps/padelmate.png" width="56" height="56" alt="Padel Mate"/></td>
-      <td><b>Padel Mate</b><br/>A padel scoreboard with real rules, your match history and your progress.</td>
+      <td><b><a href="https://padelmate.alekla.com">Padel Mate</a></b><br/>A padel scoreboard with real rules, your match history and your progress.</td>
       <td><a href="https://apps.apple.com/app/id6743674715"><img src="assets/badges/app-store.svg" height="34" alt="Padel Mate on the App Store"/></a> <a href="https://play.google.com/store/apps/details?id=com.alekla0126.padelmate&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dprofile%26utm_campaign%3Dreadme"><img src="assets/badges/google-play.png" height="34" alt="Padel Mate on Google Play"/></a></td>
     </tr>
     <tr>
       <td width="64"><img src="assets/apps/instanotes.png" width="56" height="56" alt="Instanotes AI"/></td>
-      <td><b>Instanotes AI</b><br/>A rich-text notepad where AI improves, shortens, translates or continues your writing.</td>
+      <td><b><a href="https://instanotes.alekla.com">Instanotes AI</a></b><br/>A rich-text notepad where AI improves, shortens, translates or continues your writing.</td>
       <td><a href="https://apps.apple.com/app/id6775073535"><img src="assets/badges/app-store.svg" height="34" alt="Instanotes AI on the App Store"/></a> <a href="https://play.google.com/store/apps/details?id=com.alekla0126.scribeai&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dprofile%26utm_campaign%3Dreadme"><img src="assets/badges/google-play.png" height="34" alt="Instanotes AI on Google Play"/></a></td>
     </tr>
     <tr>
       <td width="64"><img src="assets/apps/pdfmaster.png" width="56" height="56" alt="PDF Master"/></td>
-      <td><b>PDF Master</b><br/>Scan documents, run OCR, sign and share PDFs without uploading anything to the cloud.</td>
+      <td><b><a href="https://pdfmaster.alekla.com">PDF Master</a></b><br/>Scan documents, run OCR, sign and share PDFs without uploading anything to the cloud.</td>
       <td><a href="https://apps.apple.com/app/id6761705970"><img src="assets/badges/app-store.svg" height="34" alt="PDF Master on the App Store"/></a> <a href="https://play.google.com/store/apps/details?id=com.alekla.pdfmastermobile&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dprofile%26utm_campaign%3Dreadme"><img src="assets/badges/google-play.png" height="34" alt="PDF Master on Google Play"/></a></td>
     </tr>
     <tr>
       <td width="64"><img src="assets/apps/komodo.png" width="56" height="56" alt="Komodo VPN"/></td>
-      <td><b>Komodo VPN</b><br/>One-tap VPN that encrypts your connection on public Wi-Fi.</td>
+      <td><b><a href="https://komodovpn.alekla.com">Komodo VPN</a></b><br/>One-tap VPN that encrypts your connection on public Wi-Fi.</td>
       <td><a href="https://apps.apple.com/app/id6569245786"><img src="assets/badges/app-store.svg" height="34" alt="Komodo VPN on the App Store"/></a> <a href="https://play.google.com/store/apps/details?id=com.alekla0126.vpn&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dprofile%26utm_campaign%3Dreadme"><img src="assets/badges/google-play.png" height="34" alt="Komodo VPN on Google Play"/></a></td>
     </tr>
     <tr>
@@ -106,17 +108,17 @@ Claude Code, Codex, Gemini CLI and Grok in one desktop app, with your whole hist
 <table>
     <tr>
       <td width="64"><img src="assets/apps/peakplay.png" width="56" height="56" alt="PeakPlay NFL"/></td>
-      <td><b>PeakPlay NFL</b><br/>Live NFL scores, stats, schedules and news for all 32 teams.</td>
+      <td><b><a href="https://peakplay.alekla.com">PeakPlay NFL</a></b><br/>Live NFL scores, stats, schedules and news for all 32 teams.</td>
       <td><a href="https://play.google.com/store/apps/details?id=com.peakplay.nfl&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dprofile%26utm_campaign%3Dreadme"><img src="assets/badges/google-play.png" height="34" alt="PeakPlay NFL on Google Play"/></a></td>
     </tr>
     <tr>
       <td width="64"><img src="assets/apps/padely.png" width="56" height="56" alt="Padely"/></td>
-      <td><b>Padely</b><br/>Padel scorekeeper for iPhone and Apple Watch, with golden point and best-of-three sets.</td>
+      <td><b><a href="https://alekla.com/padely/">Padely</a></b><br/>Padel scorekeeper for iPhone and Apple Watch, with golden point and best-of-three sets.</td>
       <td><a href="https://apps.apple.com/app/id6661034757"><img src="assets/badges/app-store.svg" height="34" alt="Padely on the App Store"/></a></td>
     </tr>
     <tr>
       <td width="64"><img src="assets/apps/walpy.png" width="56" height="56" alt="Walpy"/></td>
-      <td><b>Walpy</b><br/>AI wallpapers made at your phone's exact resolution.</td>
+      <td><b><a href="https://walpy.alekla.com">Walpy</a></b><br/>AI wallpapers made at your phone's exact resolution.</td>
       <td><a href="https://play.google.com/store/apps/details?id=com.alekla.Walpy&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dprofile%26utm_campaign%3Dreadme"><img src="assets/badges/google-play.png" height="34" alt="Walpy on Google Play"/></a></td>
     </tr>
     <tr>
@@ -126,27 +128,27 @@ Claude Code, Codex, Gemini CLI and Grok in one desktop app, with your whole hist
     </tr>
     <tr>
       <td width="64"><img src="assets/apps/cleanpro.png" width="56" height="56" alt="CleanPro"/></td>
-      <td><b>CleanPro</b><br/>Find duplicate photos and free up storage safely on Android.</td>
+      <td><b><a href="https://cleanpro.alekla.com">CleanPro</a></b><br/>Find duplicate photos and free up storage safely on Android.</td>
       <td><a href="https://play.google.com/store/apps/details?id=com.cleanpro.app&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dprofile%26utm_campaign%3Dreadme"><img src="assets/badges/google-play.png" height="34" alt="CleanPro on Google Play"/></a></td>
     </tr>
     <tr>
       <td width="64"><img src="assets/apps/nerite.png" width="56" height="56" alt="Nerite"/></td>
-      <td><b>Nerite</b><br/>Aquarium log, reef dosing calculator and maintenance reminders. Works offline.</td>
+      <td><b><a href="https://nerite.alekla.com">Nerite</a></b><br/>Aquarium log, reef dosing calculator and maintenance reminders. Works offline.</td>
       <td><a href="https://play.google.com/store/apps/details?id=com.thealchemistcode.aquarium_manager&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dprofile%26utm_campaign%3Dreadme"><img src="assets/badges/google-play.png" height="34" alt="Nerite on Google Play"/></a></td>
     </tr>
     <tr>
       <td width="64"><img src="assets/apps/minoxtrack.png" width="56" height="56" alt="MinoxTrack"/></td>
-      <td><b>MinoxTrack</b><br/>A private tracker and reminder for your minoxidil routine.</td>
+      <td><b><a href="https://minoxtrack.alekla.com">MinoxTrack</a></b><br/>A private tracker and reminder for your minoxidil routine.</td>
       <td><a href="https://apps.apple.com/app/id6757134831"><img src="assets/badges/app-store.svg" height="34" alt="MinoxTrack on the App Store"/></a> <a href="https://play.google.com/store/apps/details?id=com.alekla0126.minoxtrack&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dprofile%26utm_campaign%3Dreadme"><img src="assets/badges/google-play.png" height="34" alt="MinoxTrack on Google Play"/></a></td>
     </tr>
     <tr>
       <td width="64"><img src="assets/apps/jumpropecoach.png" width="56" height="56" alt="Jump Rope Coach"/></td>
-      <td><b>Jump Rope Coach</b><br/>Interval jump-rope workouts with voice and vibration cues.</td>
+      <td><b><a href="https://jumpropecoach.alekla.com">Jump Rope Coach</a></b><br/>Interval jump-rope workouts with voice and vibration cues.</td>
       <td><a href="https://play.google.com/store/apps/details?id=com.thealchemistcode.jumpropecoach&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dprofile%26utm_campaign%3Dreadme"><img src="assets/badges/google-play.png" height="34" alt="Jump Rope Coach on Google Play"/></a></td>
     </tr>
     <tr>
       <td width="64"><img src="assets/apps/waterday.png" width="56" height="56" alt="Waterday"/></td>
-      <td><b>Waterday</b><br/>Free daily watering reminders for every houseplant.</td>
+      <td><b><a href="https://waterday.alekla.com">Waterday</a></b><br/>Free daily watering reminders for every houseplant.</td>
       <td><a href="https://play.google.com/store/apps/details?id=com.thealchemistcode.waterday&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dprofile%26utm_campaign%3Dreadme"><img src="assets/badges/google-play.png" height="34" alt="Waterday on Google Play"/></a></td>
     </tr>
 </table>
