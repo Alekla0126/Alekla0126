@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://alekla.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/brand/alekla-logo-fondo-oscuro.svg">
+      <img src="assets/brand/alekla-logo-fondo-claro.svg" alt="alekla" width="220">
+    </picture>
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">Software engineering, AI and tech leadership · Puebla, Mexico</h3>
 
